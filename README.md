@@ -14,4 +14,4 @@ Datubāzei nepieciešamais fails atrodas root direktorijā ar nosaukumu test_db.
 Datubāzes piekļuves mainīgie atrodās iekš classes.php klases dbo, kuri attiecīgi ir jānomaina uz testējamā servera parametriem.
 
 
-Pirmais skats index.php => test.php => results.php
+index.php(Pirmais skats) => test.php(otrais skats) => results.php (trešais skats)
