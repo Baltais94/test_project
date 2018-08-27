@@ -10,3 +10,5 @@ php.ini
 	
 
 Datubāzei nepieciešamais fails atrodas root direktorijā ar nosaukumu test_db.sql .
+
+Datubāzes piekļuves mainīgie atrodās iekš classes.php klases dbo, kuri attiecīgi ir jānomaina uz testējamā servera parametriem.
