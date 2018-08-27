@@ -7,3 +7,6 @@ Projektā tika izmantoti php short tags, līdz ar to iekš php.ini faila, ja tas
 
 php.ini
 	short_open_tag=On
+	
+
+Datubāzei nepieciešamais fails atrodas root direktorijā ar nosaukumu test_db.sql .
