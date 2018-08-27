@@ -1,0 +1,43 @@
+.first_page .col{
+	justify-content: center;
+	display: flex;
+}
+.first_page {
+	min-height: 100vh;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.main_form h2{
+	margin-bottom: 20px;
+}
+.main_form {
+	border: 1px solid #ccc;
+	border-radius: 15px;
+	padding: 25px;
+	max-width: 450px;
+	width: 100%;
+	text-align:center;
+	background: white;
+}
+body {
+	background-color: #f1f1f1;
+}
+.test_form .btn-info{
+	min-width: 200px;
+	margin-bottom: 25px;
+}
+.test_form {
+	max-width: 600px;
+	box-sizing: border-box;
+	padding: 50px;
+}
+.check_jaut {
+	min-width: 200px;
+}
+.progress {
+	max-width: 400px;
+	margin: 0 auto;
+}
+.jaut_error {
+	margin-top: 25px;
+}

@@ -1,0 +1,5 @@
+Šis testa projekts tika veidots un testēts uz PHP versijas 5.6 un izmantojot MySQL ar versiju 5.7;
+Projektā tika izmantoti php short tags, līdz ar to iekš php.ini faila, ja tas nav izdarīts, ir nepieciešams atļaut tos izmantot;
+
+php.ini
+	short_open_tag=On
